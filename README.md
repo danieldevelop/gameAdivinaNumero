@@ -1,0 +1,2 @@
+# gameAdivinaNumero
+PSeudocodigo PSeint
